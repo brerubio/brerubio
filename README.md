@@ -1,16 +1,15 @@
-### Hi there 👋
+###  vindas ao meu perfil 🫀
 
-<!--
-**brerubio/brerubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Brenda Rubio
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Sou estudante do colégio Durval Ramos Filho
+- EStou no primeiro ano do ensino médio
+- Qualquer duvida entrar em contato 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+![](  https://media.tenor.com/RrXsGhXSBDUAAAAC/ok-thumbs-up.gif)
+
+   brenda.rubio@escola.pr.gov.br
